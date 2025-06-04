@@ -15,4 +15,5 @@ SFT_DPO를 활용한 도메인 특화 QA Model 성능 개선 프로젝트
 1. 특허 데이터셋 자체도 QA를 만들기 쉽지 않았음(덜 정형화되어있음) 타 Medical QA 셋과 같이 정제되지 못했을 가능성
 2. SFT의 중요성-> DPO는 약간의 변주
 
-- Team members: [[고혜정](https://github.com/Kohyejung)] ,[[신진섭](https://github.com/ShinJinSeob?query=%EC%8B%A0)]
+### 팀원
+- Team members: [[고혜정](https://github.com/Kohyejung)] ,[[신진섭](https://github.com/ShinJinSeob?query=%EC%8B%A0)], [[홍준기](https://github.com/JoonKeeHong00)]
